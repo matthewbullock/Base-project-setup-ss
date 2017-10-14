@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Overview
 
 Base project folder for a SilverStripe ([http://silverstripe.org](http://silverstripe.org)) installation. Requires additional modules to function:
@@ -50,3 +51,6 @@ If you would like to make changes to the SilverStripe core codebase, we have an 
 	GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, 
 	STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY 
 	OF SUCH DAMAGE.
+=======
+# Base-project-setup-ss
+>>>>>>> 235e6e746d1ef199ae61b3c95c86f2ad3987c8cf
